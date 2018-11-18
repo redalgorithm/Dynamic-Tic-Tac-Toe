@@ -1,2 +1,2 @@
 # Dynamic-Tic-Tac-Toe
-Basic, user-oriented, game of Tic Tac Toe.
+A basic, user-oriented, game of Tic Tac Toe.
