@@ -6,7 +6,7 @@
 /*
     This program uses dynamic allocation to create a board
     in which a participant can control the size of the playing field.
-    It then proceeds to perform a user-oriented game of Tic Tac Toe.
+    It then proceeds to perform a basic, user-oriented, game of Tic Tac Toe.
 */
 
 #include <cstdlib>                 // system definitions
